@@ -26,7 +26,7 @@ Este proyecto implementa el cifrado y descifrado de archivos y directorios de fo
 ### Ejecución
 
 ```
-python main.py 
+python xor.py 
 ```
 
 Se mostrará un menú con opciones para:
